@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Ayush Gabba
 
-🎓 **B.Tech in Computer Science**  
-📍 University of Petroleum and Energy Studies, Dehradun  
-🔧 Minor: Cloud Computing  
-🌍 Based in Delhi, India
+Welcome to my GitHub!
+
+I'm a passionate Computer Science undergrad with a strong interest in **cloud computing**, **software development**, and **data-driven applications**. I'm currently pursuing my B.Tech at the **University of Petroleum and Energy Studies**, Dehradun, where I'm also specializing in Cloud Computing.
+
+I love building scalable applications, exploring emerging tech, and working on impactful projects — from healthcare prediction systems to full-fledged cloud-hosted platforms. When I'm not coding, I enjoy volunteering and contributing to initiatives that make a real difference.
 
 ---
 
@@ -59,4 +60,4 @@
 
 ---
 
-_Thanks for stopping by! Let's build something amazing together._
+_Thanks for stopping by! I'm always open to exciting collaborations and learning opportunities — let’s connect and innovate together._
