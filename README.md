@@ -28,26 +28,26 @@ I love building scalable applications, exploring emerging tech, and working on i
 
 ## 🛠️ Technical Skills
 
-- Languages: `Java`, `Python`, `C`, `C++`, `JavaScript`, `SQL`
-- Web Dev: `HTML`, `CSS`
-- Cloud: `AWS EC2`, `S3`, `Load Balancer`
-- Tools: `Git`, `Clerk`, `MySQL`
+- **Languages:** Java, Python, C, C++, JavaScript, SQL  
+- **Web Development:** HTML, CSS  
+- **Cloud Services:** AWS EC2, S3, Load Balancer  
+- **Tools:** Git, Clerk, MySQL
 
 ---
 
 ## 🎓 Certifications
 
-- **Python for Beginners** – Coursera  
-- **AWS Cloud Practitioner Essentials**  
-- **AWS Cloud Architecting**  
-- **AWS Cloud Security Foundation**  
-- **AWS Introduction to Cloud (Semesters 1 & 2)**
+- 🏅 Python for Beginners – Coursera  
+- ☁️ AWS Cloud Practitioner Essentials  
+- 🏗️ AWS Cloud Architecting  
+- 🔐 AWS Cloud Security Foundation  
+- ☁️ AWS Introduction to Cloud (Semesters 1 & 2)
 
 ---
 
 ## 🤝 Social Impact
 
-**Intern - Aradhya Foundation**  
+**Intern – Aradhya Foundation**  
 - Volunteered with a 10+ member team  
 - Boosted access to mental health and career resources by **50%**  
 - Helped improve individual outcomes by **15%**
@@ -56,7 +56,8 @@ I love building scalable applications, exploring emerging tech, and working on i
 
 ## 📫 Connect with Me
 
-[LinkedIn](https://linkedin.com/in/ayushgabba) • ✉️ ayushgabba16@gmail.com
+- [LinkedIn](https://linkedin.com/in/ayushgabba)  
+- 📧 ayushgabba16@gmail.com
 
 ---
 
